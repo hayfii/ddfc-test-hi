@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"unshine",
+			"monika-real",
+			[
+				46,
+				255,
+				133
+			]
+		],
+		[
+			"muffin",
+			"natsuki",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"conflict",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"confession",
+			"yuri-crazy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "act 2",
+	"weekName": "act2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

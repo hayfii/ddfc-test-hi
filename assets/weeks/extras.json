@@ -1,0 +1,59 @@
+{
+	"storyName": "extras",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"hypothesis",
+			"mat",
+			[
+				0,
+				255,
+				113
+			]
+		],
+		[
+			"third-eye",
+			"mom",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"zamn",
+			"zamn",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"potassium-poems",
+			"queen",
+			[
+				166,
+				193,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

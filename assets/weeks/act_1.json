@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"tutorial",
+			"monika-real",
+			[
+				46,
+				255,
+				133
+			]
+		],
+		[
+			"sunshine",
+			"sayori",
+			[
+				26,
+				213,
+				255
+			]
+		],
+		[
+			"cupcake",
+			"natsuki",
+			[
+				246,
+				153,
+				233
+			]
+		],
+		[
+			"bookworm",
+			"yuri",
+			[
+				115,
+				0,
+				195
+			]
+		],
+		[
+			"omatsuri",
+			"sayori2",
+			[
+				0,
+				0,
+				53
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "act 1",
+	"weekName": "act1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
